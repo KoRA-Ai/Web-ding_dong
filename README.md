@@ -3,5 +3,6 @@
 If u feel bored you can ding~~~~dong~~~~
 Link: https://kora-ai.github.io/ding_dong/
 
-
+- Currently not compatible with small screen size
+last edited: 24/8/2022
 圖(Art): Ai Huang (me)
